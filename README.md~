@@ -26,5 +26,5 @@ para salir del screen
 ctr+a+d
 
 Crear backups desde php:
-https://github.com/Karucida/howtobackupDBonDropbox/blob/master/backup.php
+https://github.com/Karucida/howtobackupDBonDropbox/backup.php
 
